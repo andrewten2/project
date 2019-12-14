@@ -18,7 +18,7 @@
 
 // // console.log(arr[0]);
 
-// // alert("hello world");
+alert("hello world");
 
 let text = confirm("are you alex?");
 
