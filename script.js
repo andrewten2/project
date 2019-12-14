@@ -20,26 +20,38 @@
 
 // // alert("hello world");
 
-// // let text = confirm("are you alex?");
+let text = confirm("are you alex?");
 
-// // console.log(text);
+console.log(text);
 
-// let text = +prompt("ТЫ кто по жизни?", "бродяга");
+let text2 = prompt("ТЫ кто по жизни?", "бродяга");
+alert(text2);
 
+//helo 
 // console.log(text);
 // console.log(typeof(text));
 
 // console.log(4 + "- object");
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
 
-console.log(incr++,decr--);
+// console.log(incr++,decr--);
 
-console.log(7%2);
+// console.log(7%2);
 
-let isChecked = true;
-let isClose = false;
+// let isChecked = true;
+// let isClose = false;
 
-console.log(!isChecked || isClose);
+// console.log(!isChecked || isClose);
+
+
+// let message;
+// message="it is new message;";
+// alert(message);
+
+const myBirthday = '22.08.1994';
+
+
+
